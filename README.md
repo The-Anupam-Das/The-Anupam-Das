@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/iamAnupam_Das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamAnupam_Das" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anupam-das-10134a201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-das-10134a201" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_anupamdas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_anupamdas" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/diwakar_1593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diwakar_1593" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/diwakar200kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="diwakar200kumar" height="30" width="40" /></a> -->
 </p>
