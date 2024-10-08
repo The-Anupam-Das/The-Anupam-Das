@@ -48,6 +48,19 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="48" height="48"/></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="48" height="48"/></a>
 </p>
+---
+<h3 align="center">GitHub Stats</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Anupam-Das&theme=radical" alt="GitHub Streak" width="450"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anupam-Das&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 
