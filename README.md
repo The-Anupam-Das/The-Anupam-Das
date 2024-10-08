@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://x.com/iamAnupam_Das" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/anupam-das-10134a201/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <!-- <a href="https://instagram.com/itsrohandev_" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a> -->
+  <a href="https://www.instagram.com/the_anupamdas/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
 
 ---
