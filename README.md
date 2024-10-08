@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt=gif width="400"/>
+  <img src="https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966" alt=gif width="400"/>
 </p>
 
 - 🌱 I’m expanding my knowledge in **Web technologies**
