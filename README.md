@@ -44,7 +44,9 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Anupam-Das&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="450"/>
+      <span>
+      ![Stats](https://github-readme-stats.vercel.app/api?username=The-Anupam-Das&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+      </span>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anupam-Das&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400"/>
