@@ -41,13 +41,13 @@
 
 <h3 align="center">GitHub Stats </h3>
 
-<table align="center">
+<table align="center">More actions
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=The-Anupam-Das&theme=radical" alt="GitHub Streak" /></a>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Anupam-Das&theme=radical" alt="GitHub Streak" width="450"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anupam-Das&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=The-Anupam-Das&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
     </td>
   </tr>
 </table>
