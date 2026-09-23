@@ -47,11 +47,11 @@
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=The-Anupam-Das&theme=radical" alt="GitHub Streak" /></a>
     </td>
     <td align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Anupam-Das&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"
-    alt="Top Languages"
-    width="400"
-  />
+      <img
+        src="./profile/top-langs.svg"
+        alt="Top Languages"
+        width="400"
+    />
 </td>
   </tr>
 </table>
