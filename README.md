@@ -41,21 +41,24 @@
 
 <h3 align="center">GitHub Stats </h3>
 
+<h3 align="center">GitHub Stats</h3>
+
 <table align="center">
   <tr>
-    <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=The-Anupam-Das&theme=radical" alt="GitHub Streak" /></a>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=The-Anupam-Das&theme=radical"
+          alt="GitHub Streak"
+        />
+      </a>
     </td>
     <td align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anupam-Das&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"
-    alt="GitHub Stats"
-    width="400"
-  />
-</td>
-</td>
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=The-Anupam-Das&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"
+        alt="Top Languages"
+        width="400"
+      />
+    </td>
   </tr>
 </table>
-
-
-
