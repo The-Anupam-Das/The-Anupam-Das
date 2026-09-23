@@ -48,7 +48,7 @@
     </td>
     <td align="center">
   <img
-    src="https://gh-readme-profile.vercel.app/api?username=The-Anupam-Das"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Anupam-Das&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117"
     alt="GitHub Stats"
     width="400"
   />
